@@ -1,0 +1,33 @@
+"1","Created by","A real human, without the use of artificial intelligence."
+"2","SQL Online","Next gen SQL editor"
+"3","Kirill N.","https://www.linkedin.com/in/sqliteonlinecom"
+"4","Donate (ERC20: ETH or USDC) ","0xCcc227E5615D4FADd758228Bab12ceb465D4ED18"
+"5","Donate (BTC)","bc1q25zqmgll2fz0tyduusyfageh3jh7htcwjt2rdk"
+"6","Chart","LINE-SELECT name, cos(id), sin(id) FROM demo;"
+"7","Short CODE","s* tableName => SELECT * FROM tableName
+sf tableName => SELECT columns FROM tableName
+sc tableName => SELECT count(*) FROM tableName
+sl tableName => SELECT * FROM tableName ORDER BY key DESC LIMIT 100;
+ct => CREATE TABLE
+ii tableName => INSERT INTO
+us tableName => UPDATE SET
+uw tableName => UPDATE SET WHERE
+df tableName => DELETE FROM
+dw tableName => DELETE FROM WHERE"
+"8","SQLite 3.45.2","SQL OnLine on JavaScript"
+"9","[RightClick] mouse","Opens many additional features"
+"10","Left-Panel, Table","[RightClick] mouse ""Context menu"""
+"11","Tabs","mouse: [RightClick] , [MiddleClick] , [Wheel] , [LeftClick]"
+"12","SQL Editor","autocomplete: [Ctrl-Space] or [Alt-Space]; run: [Shift-Enter]"
+"13","Size table","Fast scroll million rows"
+"14","Share","Create public link DB"
+"15","12","Number of color themes"
+"16","ai.Url","https://sqliteonline.com/LICENSE"
+"17","ai.Color","#9393ad"
+"18","ai.Image","Blob - png, jpg, gif or String(base64) [DbClick] row"
+"19","SQL","Syntax example library"
+"20","CREATE","CREATE TABLE table_name (col1, col2)"
+"21","SELECT","SELECT * FROM table_name"
+"22","INSERT","INSERT INTO table_name (col1, col2) VALUES (""example"",""test"")"
+"23","UPDATE","UPDATE table_name SET col1=""work"" WHERE col2=""test"""
+"24","DELETE","DELETE FROM table_name"
